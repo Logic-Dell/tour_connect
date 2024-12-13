@@ -5215,7 +5215,8 @@ path {
 }
 .main-header__logo img {
   max-width: 100%;
-  height: auto;
+  height: 100px;
+  width: 100px;
 }
 .main-header__right {
   display: flex;
@@ -17449,7 +17450,8 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .footer-two__bottom-logo img {
   max-width: 100%;
-  height: auto;
+  height: 100px;
+  width: 100px;
 }
 .footer-two__copyright {
   font-size: var(--trevlo-size-xl, 14px);
